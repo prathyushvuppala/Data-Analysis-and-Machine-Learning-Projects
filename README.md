@@ -2,9 +2,6 @@
 ![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
-# Randy Olson's data analysis and machine learning projects
-
-© 2016-2018 Randal S. Olson
 
 This is a repository of teaching materials, code, and data for my data analysis and machine learning projects.
 
